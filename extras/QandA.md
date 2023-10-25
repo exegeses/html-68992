@@ -1,11 +1,28 @@
 # Preguntas y Respuestas
 
 
+HTML	contenedores (estructura)
+CSS		estética (diseño)
 
 
 
 
 
+
+
+
+
+Síntaxis
+
+<elemento atributo="valor" atributo2="valor">
+	objeto
+</elemento>
+
+<elemento>
+	<elemento>
+		contenido
+	</elemento>
+</elemento>
 
 
 
