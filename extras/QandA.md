@@ -5,12 +5,40 @@ HTML	contenedores (estructura)
 CSS		estética (diseño)
 
 
+tipo
+	serif
+	sans-serif
+	cursive
+	monaspace
+	fantasy
 
 
 
 
 
 
+
+
+descarga
+flaticon
+https://www.flaticon.com/
+
+pngwing
+https://www.pngwing.com/
+
+Unspash
+https://unsplash.com/e
+
+Pexels
+https://www.pexels.com/es-es/
+
+Freepik
+https://www.freepik.es/
+
+
+
+
+https://camera-webgi.vercel.app/
 
 Síntaxis
 
