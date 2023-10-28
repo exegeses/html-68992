@@ -1,0 +1,21 @@
+body{
+    background-color: #def2fc;
+}
+header{
+    width: 1100px;
+    height: 104px;
+    margin: auto; /* centrar una caja */
+    background-color: #041D2A;
+}
+main{
+    width: 1100px;
+    height: 560px;
+    margin: auto; /* centrar una caja */
+    background-color: #def2fc;
+}
+footer{
+    width: 1100px;
+    height: 160px;
+    margin: auto; /* centrar una caja */
+    background-color: #041D2A;
+}

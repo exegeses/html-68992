@@ -5,14 +5,24 @@ HTML	contenedores (estructura)
 CSS		estética (diseño)
 
 
-tipo
-	serif
-	sans-serif
-	cursive
-	monaspace
-	fantasy
+Proyectual
+	- Tema
+	- Secciones (navegación)
+	- bocetado (en papel)
+	- prototipado (mockup)
+	- maquetado
+
+volcar  a HTML + CSS 
 
 
+
+
+colores
+	- por nombre (in english)
+	- por código
+			->  hexagesimal
+			->  rgb()
+			->  hsl()
 
 
 
@@ -94,6 +104,7 @@ https://imageresizer.com/
 
 
 	Figma  https://www.figma.com
+	Framer https://www.framer.com/
 	JustinMind  https://www.justinmind.com/
 	Mockplus  https://www.mockplus.com/
     Adobe  https://helpx.adobe.com/support/xd.html

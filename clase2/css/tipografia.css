@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@300;400;600&display=swap');
+
 body{
     background-color: #27003a;
     color: #e689e9;
-    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    /* font-family: 'Trebuchet MS', Helvetica, sans-serif; */
+    font-family: 'Figtree', sans-serif;
+    font-weight: 300;
+}
+h1{
+    font-weight: 300;
 }
