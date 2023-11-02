@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@300;400;600&family=Raleway+Dots&display=swap');
+
+body{
+    font-family: 'Figtree', sans-serif;
+    background-color: rgb(195, 195, 195);
+    color: #3c3c3c;
+}
+main{
+    width: 768px;
+    margin: auto; /* centrar un contenedor */
+}
+#contenedor{
+    background-color: #808080;
+    height: 400px;
+
+    display: flex;
+    /* distribución en el eje X (horizontal) */
+    /* justify-content: start; /* predeterminado:  hacia la izquierda  */
+    /* justify-content: end; /* hacia la derecha  */
+    /* justify-content: center; /* centrado  */
+
+    /* justify-content: space-around; */
+    /* justify-content: space-between; */
+    justify-content: space-evenly;
+}
+
+#contenedor2{
+    background-color: #808080;
+    height: 400px;
+
+    display: flex;
+
+    /* distribución en el eje Y (vertical) */
+    /* align-items: start; /* predeterminado: arriba */
+    /* align-items: end; /* abajo */
+    align-items: center; /* centrado */
+
+}
+
+#contenedor3{
+    background-color: #808080;
+    height: 400px;
+
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+    article{
+        background-color: rgb(136, 230, 175);
+        width: 180px;
+        height: 140px;
+    }

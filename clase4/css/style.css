@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    background-image: url(../imgs/bg-desert.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+header{
+    height: 104px;
+}
+main{
+    min-height: 600px;
+    background-color: #0000001a;
+}
+footer{
+    height: 180px;
+}
