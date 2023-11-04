@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@300;400;600&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Figtree', sans-serif;
+    color: #231F4D;
+}
+header{
+    width: 1100px;
+    height: 104px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* centrafr en vertical */
+}
+    header nav a{
+        font-size: 20px;
+        margin: 8px;
+        text-decoration: none; /* quitar el subrayado */
+        color: #231F4D;
+        transition: 500ms;
+    }
+    header nav a:hover{
+        color: #E200E2;
+        /* font-size: 24px; */
+    }
+
+/* main */
+main{
+    width: 1100px;
+    margin: auto;
+}
+    #hero-banner{
+        height: 450px;
+        background-image: url(../imgs/hero-banner.jpg);
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+        #hero-banner h1{
+            font-size: 40px;
+            color: #fff;
+        }
