@@ -46,4 +46,37 @@ main{
         #hero-banner h1{
             font-size: 40px;
             color: #fff;
+            font-weight: 300;
         }
+
+/* sección servicios */
+#servicios{
+    margin-top: 40px;
+    padding: 32px;
+    background-color: #FCD4D1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+    #servicios h2{
+        font-weight: 300;
+        width: 100%;
+        margin-bottom: 32px;
+        text-align: center;
+    }
+    #servicios a{
+        width: 320px;
+        height: 400px;
+        display: block;
+        background-color: #fff;
+        text-decoration: none;
+        color: #231F4D;
+    }
+    #servicios h3{
+        margin: 16px;
+        font-weight: 300;
+    }
+    #servicios p{
+        margin: 0px 16px;
+        font-weight: 300;
+    }

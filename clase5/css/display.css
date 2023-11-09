@@ -1,0 +1,44 @@
+#contenedor, 
+#contenedor2,
+#contenedor3
+{
+    width: 680px;
+    background-color: #b0dbc3;
+    height: 320px;
+    margin: 64px;
+    padding: 64px;
+}
+    #contenedor a{
+        width: 200px;
+        height: 40px;
+        display: block;
+        background-color: #fff;
+    }
+
+#contenedor2{
+    display: flex;
+    flex-wrap: wrap; /* respeta los anchos de los 
+                        elementos contenidos */
+}
+    #contenedor2 article{
+        width: 180px;
+        height: 146px;
+        background-color: #fff;
+        border: 1px solid #060;
+    }
+
+#contenedor3{
+    display: flex;
+}
+
+    #contenedor3 article{
+        width: 180px;
+        height: 146px;
+        background-color: #fff;
+        border: 1px solid #060;
+
+        /* margin: 8px; */
+        /* margin: 10px 24px; */
+        margin: 10px 20px 30px 40px;
+        padding: 8px 16px 24px 8px;
+    }
