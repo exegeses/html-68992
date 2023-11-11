@@ -1,0 +1,20 @@
+body{
+    width: 820px;
+    margin: auto;
+    font-family: sans-serif;
+}
+    #contenedor{
+        height: 420px;
+        background-color: rgb(11, 81, 62);
+        display: flex;
+        flex-wrap: wrap;
+
+        align-content: center; /* pegados */
+        row-gap: 32px; /* separación entre filas */
+    }
+        #contenedor article{
+            width: 156px;
+            height: 128px;
+            background-color: rgb(69, 195, 161);
+        }
+

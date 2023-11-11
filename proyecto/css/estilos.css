@@ -80,3 +80,36 @@ main{
         margin: 0px 16px;
         font-weight: 300;
     }
+
+/* video */
+#video-banner video{
+    width: 1100px;
+    height: 450px;
+    object-fit: cover;  /* IMPORTANTE */
+}
+/* sección promos */
+#promos{
+    margin-top: 40px;
+    padding: 40px;
+    background-color: #FED8D2;
+}
+
+
+
+/* footer */
+footer{
+    width: 1100px;
+    height: 184px;
+    background-color: #231F4D;
+    margin: 40px auto 0px auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 20px;
+}
+    footer div a{
+        margin-left: 24px;
+    }
+

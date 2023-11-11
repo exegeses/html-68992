@@ -7,6 +7,19 @@ CSS		estética (diseño)
 
 
 
+Introducción a BBDD
+https://www.educacionit.com/curso-de-introduccion-sql
+
+Javascript desde 0
+https://www.educacionit.com/curso-de-javascript
+
+Programación Web en PHP y MySQL
+https://www.educacionit.com/curso-de-php
+
+
+
+
+
 
 
 
