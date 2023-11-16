@@ -1,0 +1,18 @@
+body{
+    font-family:  Raleway, sans-serif;
+    font-size: 24px;
+    color: #3c3c3c;
+    width: 680px;
+    margin: auto;
+}
+
+p{
+    margin: 32px 0px;
+}
+#parrafo{
+    height: 200px;
+    background-color: #a2ebc0;
+    /* corte en la cantidad de texto */
+    text-overflow: ellipsis;
+    overflow: hidden;
+}

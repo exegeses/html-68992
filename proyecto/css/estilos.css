@@ -92,8 +92,53 @@ main{
     margin-top: 40px;
     padding: 40px;
     background-color: #FED8D2;
+    display: grid;
+    row-gap: 40px;
 }
 
+    #promos article{
+        background-color: #fff;
+        display: flex;
+    }
+        #promos article div{
+            padding: 16px 32px;
+        }
+        #promos article div h2{
+            font-weight: normal;
+            margin-bottom: 20px;
+        }
+        #promos span{
+            display: inline-block;
+            color: #E14536;
+            margin-bottom: 40px;
+        }
+        #promos a{
+            display: block;
+            color: #fff;
+            background-color: #E14536;
+            border-radius: 8px;
+            width: 160px;
+            text-align: center;
+            margin: 40px auto 0px auto;
+            padding: 8px;
+            text-decoration: none;
+            transition: 500ms;
+        }
+        #promos a:hover{
+            background-color: hsl(5, 74%, 65%);
+        }
+
+/* formulario de contacto */
+#contacto{
+    height: 450px;
+    background: rgb(255,140,87);
+    background: linear-gradient(56deg, rgba(255,140,87,1) 0%, rgba(191,56,46,1) 22%, rgba(64,66,74,1) 69%, rgba(64,66,74,1) 100%);
+}
+    #contacto form{
+        width: 544px;
+        height: 334px;
+        background-color: rgba(255, 255, 255, .1);
+    }
 
 
 /* footer */
